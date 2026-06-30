@@ -30,6 +30,10 @@ body {
   padding: 40px 24px 64px;
 }
 
+.header {
+  text-align: center;
+}
+
 .header h1 {
   margin: 0 0 8px;
   font-size: 28px;
@@ -40,7 +44,7 @@ body {
 }
 
 .subtitle {
-  margin: 0;
+  margin: 0 auto;
   color: var(--muted);
   max-width: 640px;
   line-height: 1.5;
