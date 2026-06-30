@@ -1,0 +1,12 @@
+Candidate: Priya Sharma
+
+Spoke with Priya on 2025-03-10. Strong communicator.
+Email: priya.sharma@email.com | Phone: 415-555-0198
+
+Headline: Full-stack engineer with 7 years experience in JavaScript, React, and Node.js
+
+Previously at Acme Corp as Senior Software Engineer. Also strong in TypeScript and GraphQL.
+GitHub: https://github.com/priyasharma-dev
+LinkedIn: https://linkedin.com/in/priyasharma-dev
+
+Notes: Open to remote roles. Prefers backend-heavy teams.

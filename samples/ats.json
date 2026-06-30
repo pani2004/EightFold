@@ -1,0 +1,40 @@
+{
+  "applicant": {
+    "fullName": "Priya Sharma",
+    "contactEmail": "priya.s@workmail.com",
+    "mobileNumber": "+1-415-555-0198",
+    "locationCity": "San Francisco",
+    "locationState": "CA",
+    "locationCountry": "US",
+    "linkedInUrl": "https://linkedin.com/in/priyasharma-dev",
+    "githubUrl": "https://github.com/priyasharma-dev",
+    "portfolioUrl": "https://priyasharma.dev",
+    "summary": "Full-stack engineer specializing in React and Node.js",
+    "totalYears": 7
+  },
+  "work_history": [
+    {
+      "employer": "Acme Corp",
+      "role": "Senior Software Engineer",
+      "startDate": "01/2020",
+      "endDate": "present",
+      "description": "Led migration to TypeScript microservices"
+    },
+    {
+      "employer": "StartupXYZ",
+      "role": "Software Engineer",
+      "startDate": "06/2017",
+      "endDate": "12/2019",
+      "description": "Built React dashboards and GraphQL APIs"
+    }
+  ],
+  "education_history": [
+    {
+      "school": "UC Berkeley",
+      "degreeName": "B.S.",
+      "major": "Computer Science",
+      "graduationYear": 2017
+    }
+  ],
+  "skill_tags": ["JavaScript", "TypeScript", "React", "Node.js", "GraphQL", "AWS"]
+}
